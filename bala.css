@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+}
+
+div{
+    background-image:url(https://thumbs.dreamstime.com/b/traditional-cuisine-food-meal-thali-tamil-nadu-india-illustration-traditional-cuisine-food-meal-thali-tamil-nadu-106666302.jpg);
+}
+.menu{
+    background-image: url(https://www.shutterstock.com/image-photo/group-south-indian-food-like-600w-1153818343.jpg);
+    
+    
+}
+h1,h2,h3,h4{
+    background-color: aqua;
+    padding: 20px,0;
+    margin-top: 2px;
+    border-style: solid; color: greenyellow;
+    outline-style: solid ; color: tomato;
+}
+p{
+    font-family: 'Times New Roman', Times, serif; text-transform: capitalize;
+    overflow: visible;
+    text-align: justify;
+}
+span{
+    color: blue;
+    
+}
+label{
+    color: #000;
+    font-weight: bold;
+}
+.new{
+   background-image: url(https://thumbs.dreamstime.com/b/wedding-stage-14105203.jpg); 
+}
+ol{
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: justify;
+}
+.hall{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8dbOs-9i4zOFJE9J4DEZqlXXmi6YxRq5lGg&s);
+    color: #000;
+    font-weight: bold;
+    text-shadow: 3px;
+    
+}
